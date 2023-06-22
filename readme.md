@@ -1,4 +1,4 @@
-<p align="left"><img src="./public/assets/img/boobies.webp" alt="Laravel Ecommerce Project " width="500"></p>
+<p align="left"><img src="./public/assets/img/Logo-Square.webp" alt="Laravel Ecommerce Project " width="500"></p>
 
  
 
