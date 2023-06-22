@@ -25,11 +25,3 @@ Come and Get Meds at Affordable prices Worthy Prices!
 ## Docker
 Docker Container to allow the system run on any envinronment
 
-
-
-
-## Generate Sample Data ( Optional)
-1. Remove tables(products, users) from the  database.
-2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
-3. Finished, Now Check it in your browser using http://127.0.0.1:8000
-
