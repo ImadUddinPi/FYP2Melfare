@@ -2,28 +2,20 @@
 
  
 
-## MILF-ARE
+## MELFARE
 
-Come and Get Meds at Drool Worthy Prices!
-
-*DISCLAIMER* MILFARE will not be reponsible if you die from drooling after looking at our drool worthy prices
-
-FAP FAP FAP
+Come and Get Meds at Affordable prices Worthy Prices!
 
 ## Features
 - User Dashboard
 - Admin Dashboard
 - Mobile-Friendly Website
-- 3 Step Booking Process
 - Order Tracking
 - Email Notifications
 - Subscriber Form
 - A product search form
-- Payment Gateway(PayU) Integrated
 - Shopping Cart in a Responsive Layout
-- Pre-Defined Content with High-Resolution Photos
-- Search engine optimization (SEO) for Products
-- Recommendations and related products in our categories
+- Content along with photos
 
 ##  Environment Requirements
 -   Laravel <=5.8
@@ -31,7 +23,7 @@ FAP FAP FAP
 -   Composer Version 2 
 
 ## Docker
-To make the project more drool worthy, we have used Docker-compose to make this project run on any environment, gone are the days when people used to say "But it works on my machine!"
+Docker Container to allow the system run on any envinronment
 
 
 
