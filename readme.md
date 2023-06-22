@@ -1,10 +1,9 @@
 <p align="left"><img src="./public/assets/img/Logo-Square.webp" alt="Laravel Ecommerce Project " width="500"></p>
 
- 
 
 ## MELFARE
 
-Come and Get Meds at Affordable prices Worthy Prices!
+Come and Get Medicines at Affordable Prices
 
 ## Features
 - User Dashboard
